@@ -1,0 +1,3 @@
+[submodule "ethminer"]
+	path = ethminer
+	url = https://github.com/ethereum-mining/ethminer.git
